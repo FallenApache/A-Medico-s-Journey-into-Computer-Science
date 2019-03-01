@@ -1,0 +1,2 @@
+# A-Medico-s-Journey-into-Computer-Science
+Today I start my journey from my own failure. From now onward I will try to follow Siraj Raval's 'Learn Computer Science in 5 months' curriculum by committing atleast 2-3 hours per day, so that i can fulfill my long sought dream of delving into the world of computer science.And who knows! May be someday I will be able to pursue a career in filed of my most loved discipline i.e physics and technology. I will document my journey here in this repository. May be 1st March will be the day I would look back and smile. Cheers!
